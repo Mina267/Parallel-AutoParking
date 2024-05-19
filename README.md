@@ -15,7 +15,7 @@
 
 🔭 Then start searching for a new parking spot.‎
 
-☎️ All system status print in LCD and send ☎️ messages with UART to identify system status.‎
+☎️ Displayed real-time parking assistance on an LCD screen.‎ ☎️ messages with UART to identify system status.‎
 
 
 ##  👷Implementations:‎
